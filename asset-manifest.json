@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VisaFreeCountries/static/css/main.b5fc734f.css",
+    "main.js": "/VisaFreeCountries/static/js/main.8528f4db.js",
+    "index.html": "/VisaFreeCountries/index.html",
+    "main.b5fc734f.css.map": "/VisaFreeCountries/static/css/main.b5fc734f.css.map",
+    "main.8528f4db.js.map": "/VisaFreeCountries/static/js/main.8528f4db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5fc734f.css",
+    "static/js/main.8528f4db.js"
+  ]
+}
